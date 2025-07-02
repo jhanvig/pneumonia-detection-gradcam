@@ -20,7 +20,7 @@ This project explores the impact of background removal and data augmentation in 
 
 - Preprocessing code for background removal (OpenCV & segmentation-based)
 - Data loaders and augmentation pipelines
-- VGG16 training scripts using Keras
+- VGG16 training scripts using Keras and Resnet50
 - Grad-CAM utility for explanation
 - Detailed notebook comparisons for all 4 cases:
   1. With background, no augmentation
