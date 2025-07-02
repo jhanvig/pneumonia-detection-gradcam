@@ -1,6 +1,6 @@
 # Pneumonia Detection with VGG16 and Grad-CAM: A Background-Aware Approach
 
-This project explores the impact of background removal and data augmentation in detecting pneumonia from chest X-ray images using a VGG16-based CNN. It emphasizes explainability through Grad-CAM visualizations and performance analysis under different preprocessing scenarios.
+This project explores the impact of background removal and data augmentation in detecting pneumonia from chest X-ray images using a VGG16-based CNN. It emphasizes explainability through Grad-CAM visualizations and performance analysis under different preprocessing scenarios. 
 
 ---
 
